@@ -1,0 +1,15 @@
+C:\Users\franc\OneDrive\Documents\IMPORTANT\C Sharp Practice\LINQ-PRACTICE\bin\Debug\net10.0\LINQ-PRACTICE.exe
+C:\Users\franc\OneDrive\Documents\IMPORTANT\C Sharp Practice\LINQ-PRACTICE\bin\Debug\net10.0\LINQ-PRACTICE.deps.json
+C:\Users\franc\OneDrive\Documents\IMPORTANT\C Sharp Practice\LINQ-PRACTICE\bin\Debug\net10.0\LINQ-PRACTICE.runtimeconfig.json
+C:\Users\franc\OneDrive\Documents\IMPORTANT\C Sharp Practice\LINQ-PRACTICE\bin\Debug\net10.0\LINQ-PRACTICE.dll
+C:\Users\franc\OneDrive\Documents\IMPORTANT\C Sharp Practice\LINQ-PRACTICE\bin\Debug\net10.0\LINQ-PRACTICE.pdb
+C:\Users\franc\OneDrive\Documents\IMPORTANT\C Sharp Practice\LINQ-PRACTICE\obj\Debug\net10.0\LINQ-PRACTICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Documents\IMPORTANT\C Sharp Practice\LINQ-PRACTICE\obj\Debug\net10.0\LINQ-PRACTICE.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Documents\IMPORTANT\C Sharp Practice\LINQ-PRACTICE\obj\Debug\net10.0\LINQ-PRACTICE.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Documents\IMPORTANT\C Sharp Practice\LINQ-PRACTICE\obj\Debug\net10.0\LINQ-PRACTICE.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documents\IMPORTANT\C Sharp Practice\LINQ-PRACTICE\obj\Debug\net10.0\LINQ-PRACTICE.sourcelink.json
+C:\Users\franc\OneDrive\Documents\IMPORTANT\C Sharp Practice\LINQ-PRACTICE\obj\Debug\net10.0\LINQ-PRACTICE.dll
+C:\Users\franc\OneDrive\Documents\IMPORTANT\C Sharp Practice\LINQ-PRACTICE\obj\Debug\net10.0\refint\LINQ-PRACTICE.dll
+C:\Users\franc\OneDrive\Documents\IMPORTANT\C Sharp Practice\LINQ-PRACTICE\obj\Debug\net10.0\LINQ-PRACTICE.pdb
+C:\Users\franc\OneDrive\Documents\IMPORTANT\C Sharp Practice\LINQ-PRACTICE\obj\Debug\net10.0\LINQ-PRACTICE.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Documents\IMPORTANT\C Sharp Practice\LINQ-PRACTICE\obj\Debug\net10.0\ref\LINQ-PRACTICE.dll
